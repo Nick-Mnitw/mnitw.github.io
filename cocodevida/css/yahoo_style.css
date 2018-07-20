@@ -1,3 +1,70 @@
+h1 {
+    margin: 0.5em 0px;
+    padding: 0px;
+    border: 0px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: 500;
+    font-stretch: inherit;
+    line-height: 1.5em;
+    font-family: inherit;
+    font-size: 1.5em;
+    vertical-align: baseline;
+    color: rgb(195, 19, 19);
+    letter-spacing: 0.05em;
+    }
+
+h2 {
+    color: #0F548B;
+    border-bottom: 1px solid #E6E6E6;
+    margin: 20px 0 15px 0;
+    padding: 10px 0;
+}
+
+p {
+    margin: 10px 0px;
+    padding: 0px;
+    border: 0px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    line-height: 1.5em;
+    font-family: inherit;
+    font-size: 1em;
+    vertical-align: baseline;
+    letter-spacing: 0.1em;
+}
+
+div.row {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-stretch: inherit;
+    line-height: inherit;
+       font-size: 16px;
+    vertical-align: baseline;
+}
+
+hr {
+    border-bottom: 5px solid #0ebeff;
+    margin-bottom: 15px;
+    }
+
+.product .product_description .product_description_title span {
+    border: 1px solid #ECECEC;
+    color: #003567;
+    padding: 5px 5px;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.product .product_description {
+    font-size: 1.2em;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #565656;
+}  
     div.product {
         font-family: "Open Sans", sans-serif;
         line-height: 1.25;
